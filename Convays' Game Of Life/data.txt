@@ -1,0 +1,7 @@
+Name > Universe 616
+Factor > 50
+Edge > 700
+Font Face > Banner3-D
+Delay > 100000
+Starts In > 1
+Time Of Life > 200
